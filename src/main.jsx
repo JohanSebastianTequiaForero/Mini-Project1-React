@@ -4,7 +4,7 @@ import App from './App'
 import './index.css'
 
 createRoot(document.getElementById('root')).render(
-  <BrowserRouter basename="/Mini-Project1-React">
+  <BrowserRouter basename="/">
     <App />
   </BrowserRouter>
 )
